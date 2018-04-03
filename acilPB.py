@@ -19,37 +19,37 @@ else:
     import urllib.request
     import urllib.parse
 acil = PRANKBOTS.LINE()
-acil.login(token="")
+acil.login(token="ErfxZBFu6iP2TZBGdAd0.x1BTzXeup9CXgRy8mCEjqa.CTOB3O8/nLm45NI7mseN4eooT40zwfIQZVbhhEcoXQY=")
 acil.loginResult()
 ki = PRANKBOTS.LINE()
-ki.login(token="")
+ki.login(token="ErTiYbJr7LVsCfvLXyb2.X+8NWqB1KSv14XpEP4vXuG.6YcuwoAJ/osPUPwHucpy/gfhLNm6ibUFjyIEMdlgSmY=")
 ki.loginResult()
 ki2= PRANKBOTS.LINE()
-ki2.login(token="")
+ki2.login(token="Ero8D14Sg8XkPTkeVHC7.yWsnCHc5+xLMYVt+Dy4DzW.aO/3+wsMG6b0urdF9vvuJbat5YtnepcYXVdOyoAbR3Q=")
 ki2.loginResult()
 ki3 = PRANKBOTS.LINE()
-ki3.login(token="")
+ki3.login(token="ErFZypXhKkymYSOPO60e.IKUNvTt9recbT1PQTceKJG.rpGVvZplRcI9COoMbpUX+y/lpcyJo4DkfwMKolGX9yM=")
 ki3.loginResult()
 ki4 = PRANKBOTS.LINE()
-ki4.login(token="")
+ki4.login(token="ErTEURf8r0Q47yYGhHud.UdOEshX6i9uwwi7Q0jFYRq.N1Q/AycV1FDx65m13a72/TlzgNpjTfZUD5dN3O2n+FA=")
 ki4.loginResult()
 ki5 = PRANKBOTS.LINE()
-ki5.login(token="")
+ki5.login(token="Er5tjn9aPmo9TPMav6yc.RjjX/PW5a9d/mkreQyncZa.kl/k+v/UIsE+L6Bs/Bae0n5MURAu5eAPh4ElWEHiHAI=")
 ki5.loginResult()
 ki6 = PRANKBOTS.LINE()
-ki6.login(token="")
+ki6.login(token="ErMJOlbhvxEMbtetTBRf.8xqyonc7QGpg4SKhcRUsVW.NeWCBWMjVptqds7uwtBV7CLLeNURUNOo9zbIF8CT0Jo=")
 ki6.loginResult()
 ki7 = PRANKBOTS.LINE()
-ki7.login(token="")
+ki7.login(token="ErvFtzj2DsDdmbQxvlb6.HQh4RpqRYzqfruxsRHZtfG.nxmd2g+6FA7bLnFNo4X1RzLWsNWEP/i4f4O4M5qUpbQ=")
 ki7.loginResult()
 ki8 = PRANKBOTS.LINE()
-ki8.login(token="")
+ki8.login(token="ErguTptOSzKqvUQOdYq9.hBhkoFGOWq2ca/v2aGDfkq./Kcmg61w1oLsZpfTTT9Mj9y1Xlyde4QroCD2eIqjj8U=")
 ki8.loginResult()
 ki9 = PRANKBOTS.LINE()
-ki9.login(token="")
+ki9.login(token="ErmkpZ2ZhXehPvvWGRe5.fj0S/qYKVWGRwpehA8QPbq.+EBs+mJQutpKSjXJt1AbbddUIZ3Ag1CObtMXTQD28ic=")
 ki9.loginResult()
 ki10 = PRANKBOTS.LINE()
-ki10.login(token="")
+ki10.login(token="Er37vFahetf6iLSBTgQ7.9JEdd8ZTx6V8TnFFP76r5W.S4SQxUS2e31pfTg4UCJvVt9vyhNWUBnwa6u8ctKHrn0=")
 ki10.loginResult()
 print "login success"
 reload(sys)
@@ -375,7 +375,7 @@ ki8mid = ki8.getProfile().mid
 ki9mid = ki9.getProfile().mid
 ki10mid = ki10.getProfile().mid
 Bots=[mid,kimid,ki2mid,ki3mid,ki4mid,ki5mid,ki6mid,ki7mid,ki8mid,ki9mid,ki10mid]
-admsa = ""
+admsa = "u61a9b5ce8de3eb51a859410c9834e5c8"
 wait = {
     'contact':False,
     'autoJoin':True,
