@@ -54,8 +54,8 @@ ki10.loginResult()
 print "login success"
 reload(sys)
 sys.setdefaultencoding('utf-8')
-helpMessage="""(╣••℘̰̰̈́ґ̰̰̈́∂̰̰̈́η̰̰̈́к̰̰̈́ ̰в̰̰̈́❍̰̰̈́т̰̰̈́ѕ̰̰̈́••╣)
-╔═B༘̈́̈́L༘̈́̈́Ä༘́̈́C༘̈́̈́K༘̈́̈́   ̈́Ö༘́̈́F༘̈́̈́ ̈́  G༘̈́̈́Ä༘́̈́M༘̈́̈́Ë༘́̈́R༘̈́̈́═╗
+helpMessage="""
+╔═   ─┅═래㊣☬SEPRIBOT‮─┅═래㊣☬
 ║1║ ✰ Me
 ║2║ ✰ Add
 ║3║ ✰ Gift
@@ -130,8 +130,8 @@ helpMessage="""(╣••℘̰̰̈́ґ̰̰̈́∂̰̰̈́η̰̰̈́к̰̰̈́ ̰в̰̰̈́�
 ║🔛║ ✰ {Setauto}
 ╚══╩════════╝
   """
-helpMedia="""(╣••℘̰̰̈́ґ̰̰̈́∂̰̰̈́η̰̰̈́к̰̰̈́ ̰в̰̰̈́❍̰̰̈́т̰̰̈́ѕ̰̰̈́••╣)
-╔═B༘̈́̈́L༘̈́̈́Ä༘́̈́C༘̈́̈́K༘̈́̈́   ̈́Ö༘́̈́F༘̈́̈́ ̈́  G༘̈́̈́Ä༘́̈́M༘̈́̈́Ë༘́̈́R༘̈́̈́═╗
+helpMedia="""
+╔═  ─┅═래㊣☬SEPRI_BOT‮─┅═래㊣☬
 ║╦═══MEDIA═══
 ║1║ ✰ Youtube *text*
 ║2║ ✰ Youtubesearch *user*
@@ -208,8 +208,8 @@ helpMedia="""(╣••℘̰̰̈́ґ̰̰̈́∂̰̰̈́η̰̰̈́к̰̰̈́ ̰в̰̰̈́❍
 ║🔛║ ✰ {Setauto}
 ╚══╩══════╝
 """
-helpFun = """(╣℘̰̰̈́ґ̰̰̈́∂̰̰̈́η̰̰̈́к̰̰̈́ ̰в̰̰̈́❍̰̰̈́т̰̰̈́ѕ̰̰̈́╣)
-╔═B༘̈́̈́L༘̈́̈́Ä༘́̈́C༘̈́̈́K༘̈́̈́   ̈́Ö༘́̈́F༘̈́̈́ ̈́  G༘̈́̈́Ä༘́̈́M༘̈́̈́Ë༘́̈́R༘̈́̈́═╗
+helpFun = """
+╔═  ─┅═래㊣☬SEPRI_BOT‮─┅═래㊣☬
 ║╦═══MEDIA═══
 ║1║ ✰ sider:*txt*
 ║2║ ✰ tagme:*txt
@@ -230,7 +230,7 @@ helpFun = """(╣℘̰̰̈́ґ̰̰̈́∂̰̰̈́η̰̰̈́к̰̰̈́ ̰в̰̰̈́❍̰̰̈́
 ╚══╩══════╝
 """
 helpself="""
-╔╦═C༘֮֮O༘֮֮M༘֮֮M༘֮֮A༘֮֮N༘֮֮D༘֮֮ ֮A༘֮֮L༘֮֮L༘֮֮ ֮B༘֮֮O༘֮֮T༘֮֮S༘֮֮═╦╗
+╔╦  ─┅═래㊣☬SEPRI_BOT‮─┅═래㊣☬
 ║ ═══════════║
 ║1║ ✰ Fuck1/10 "@"
 ║2║ ✰ Kick1/10 "@"
@@ -256,10 +256,10 @@ helpself="""
 ║23║ ✰ Allbio "status"
 ║24║ ✰ Sendcontact "text"
 ║25║ ✰ Botbyeall  
-║••℘̰̰̈́ґ̰̰̈́∂̰̰̈́η̰̰̈́к̰̰̈́ ̰в̰̰̈́❍̰̰̈́т̰̰̈́ѕ̰̰̈́••
-╚═══════════╝
+ ─┅═래㊣☬SEPRI_BOT‮─┅═래㊣☬
+
   """
-helpset="""╔(╣ S༘̏̏Ȅ༘̏T༘̏̏T༘̏̏Ȉ༘̏N༘̏̏G༘̏̏ ̏B༘̏̏Ȍ༘̏T༘̏̏S༘̏̏.╣)╗
+helpset="""╔(╣ ─┅═래㊣☬SEPRI_BOT‮─┅═래㊣☬
 ║ ✰ Ban:on/Unbl:on
 ║ ✰ Contact:on/off
 ║ ✰ Add:on/off
@@ -279,7 +279,7 @@ helpset="""╔(╣ S༘̏̏Ȅ༘̏T༘̏̏T༘̏̏Ȉ༘̏N༘̏̏G༘̏̏ ̏B
 ║ ✰ Read:0n/off
 ║ ✰ Like:on/off
 ║ ✰ Runtime
-║═(╣S̰֮֮Ḛ֮֮T̰֮֮T̰֮֮Ḭ֮֮N̰֮֮G̰֮֮ ֮G̰֮֮R̰֮֮O̰֮֮Ṵ֮֮P̰֮֮S̰֮֮╣)═
+║═(╣S E T T I N G  G R O U P)═
 ║ ★ Pro:on/off
 ║ ★ Prolink:on/off
 ║ ★ Proinvite:on/off
@@ -294,13 +294,13 @@ helpset="""╔(╣ S༘̏̏Ȅ༘̏T༘̏̏T༘̏̏Ȉ༘̏N༘̏̏G༘̏̏ ̏B
 ║🏴║ ✰ {Helpbots}
 ║🔧║ ✰ {Settings}
 ║🔛║ ✰ {Setauto}
-╚══╩══════╝
-║ ╦═B༘̈́̈́L༘̈́̈́Ä༘́̈́C༘̈́̈́K༘̈́̈́   ̈́Ö༘́̈́F༘̈́̈́ ̈́  G༘̈́̈́Ä༘́̈́M༘̈́̈́Ë༘́̈́R༘̈́̈́═╦
-╚═•℘̰̰̈́ґ̰̰̈́∂̰̰̈́η̰̰̈́к̰̰̈́ ̰в̰̰̈́❍̰̰̈́т̰̰̈́ѕ̰̰̈́•╝
+
+─┅═래㊣☬SEPRI_BOT‮─┅═래㊣☬
+
 """
 translateMessage ="""
 ╔══════════
-║(╣℘̰̰̈́ґ̰̰̈́∂̰̰̈́η̰̰̈́к̰̰̈́ ̰в̰̰̈́❍̰̰̈́т̰̰̈́ѕ̰̰̈́╣)
+║─┅═래㊣☬SEPRI_BOT‮─┅═래㊣☬
 ║╔═════════
 ║══════════
 ║✰║ Afrika/
@@ -388,10 +388,10 @@ wait = {
     'joingc':"message member join belum di set",
     'leftgc':"message member left belum di set",
     "stickerMention":False,
-    'message':"""THANKS FOR ADD ME\n\nSUBCRABE ME ON YOUTUBE\n\nhttps://www.youtube.com/channel/UCycBrqSWEHdk-slnhUmGWiQ""",
+    'message':"""THANKS FOR ADD ME\n\n─┅═래㊣☬SEPRI_BOT‮─┅═래㊣☬""",
     "lang":"JP",
     "comment":"Thanks For Add Me",
-    "comment1":"❂•••••••••••••••••••••••••❂\n                  https://line.me/R/ti/p/%40eiya4481p\n『⊰์◉⊱ᎢᎬᎪᎷ ᏴᏞᎪᏟᏦ ❂Ғ ᏀᎪᎷᎬᎡ⊰์◉⊱』",
+    "comment1":"\n                  \n─┅═래㊣☬SEPRI_BOT‮─┅═래㊣☬",
     "commentOn":False,
     "likeOn":True,
     "wcOn":True,
@@ -1336,7 +1336,7 @@ def bot(op):
                 msg.contentType = 13
                 msg.contentMetadata = {'mid': ki10mid}
                 ki10.sendMessage(msg)
-                ki.sendText(msg.to,"AMAN TERKENDALI KOMANDAN 👮")
+                ki.sendText(msg.to,"SepriBot was here Protect your Group")
             elif "B1" == msg.text:
                 msg.contentType = 13
                 msg.contentMetadata = {'mid': kimid}
@@ -1379,7 +1379,7 @@ def bot(op):
                 ki10.sendMessage(msg)
             elif "Creator" == msg.text:
                 msg.contentType = 13
-                msg.contentMetadata = {'mid': 'ufce863f62f40706c01fa4a3c3c4cb096'}
+                msg.contentMetadata = {'mid': 'u9f09cfcb17d037e2936b751bd9d40ead'}
                 acil.sendMessage(msg)
             elif msg.text in ["Allgift","B1 gift"]:
                 msg.contentType = 9
@@ -2072,7 +2072,7 @@ def bot(op):
                     else:
                         acil.sendText(msg.to,"Off ✖")
             elif msg.text.lower() == 'set':
-                md = "╔▬▬℘ґ∂ηк в❍тs▬▬╗\n║▬▬▬℘▬▬в▬▬▬║\n"
+                md = "╔ S E P R I B O T ╗\n║ S E T T I N G S ║\n"
                 if wait["likeOn"] == True: md+="║☆║Like:ON➡️📱\n"
                 else: md+="║☆║Like:OFF➡️📴\n"
                 if wait["wcOn"] == True: md+="║☆║Welcome:ON➡️📱\n"
@@ -2104,7 +2104,7 @@ def bot(op):
                 if wait["autoAdd"] == True: md+="║☆║Add:ON➡️📱\n"
                 else:md+="║☆║Add:OFF➡️??\n"
                 if wait["commentOn"] == True: md+="║☆║Com:ON➡️📱\n"
-                else:md+="║☆║Com:OFF➡️📴\n║▬║❨◄▬▬▬►❩\n║☆║◄═PROTECTION═►\n║▬║▬PRANKBOTS▬╣\n"
+                else:md+="║☆║Com:OFF➡️📴\n║▬║❨◄▬▬▬►❩\n║☆║◄═PROTECTION═►\n║▬║▬SEPRIBOT▬╣\n"
                 if wait["protect"] == True: md+="║☆║Pro:ON➡️📱\n"
                 else:md+="║☆║Pro:OFF➡️📴\n"
                 if wait["linkprotect"] == True: md+="║☆║ProtectQr:ON➡️📱\n"
@@ -2115,7 +2115,7 @@ def bot(op):
                 else:md+="║☆║Procancel:OFF➡️📴\n"
                 if wait["pname"] == True: md+="║☆║Namelock:ON➡️📱\n"
                 else: md+="║☆║Namelock:OFF➡️📴\n"   
-                acil.sendText(msg.to,md + "║▬▬▬℘▬▬в▬▬▬║\n╚▬▬℘ґ∂ηк в❍тs▬▬╝")
+                acil.sendText(msg.to,md + "║S E T T I N G S║\n╚S E P R I B O T╝")
             elif "Creatorgrup" == msg.text:
                 try:
                     group = acil.getGroup(msg.to)
@@ -2137,11 +2137,11 @@ def bot(op):
                     acil.sendText(msg.to,"old user")
             elif cms(msg.text,["Add"]):
                 msg.contentType = 13
-                msg.contentMetadata = {'mid': 'u5818cb4404411c2e2e6e6937d172cca8'}
+                msg.contentMetadata = {'mid': 'u9f09cfcb17d037e2936b751bd9d40ead'}
                 acil.sendText(msg.to,"❂•••••••••✧••••••••••❂")
                 acil.sendMessage(msg)
                 msg.contentType = 13
-                msg.contentMetadata = {'mid': 'udfaf52176415b46cb445ae2757ec85f3'}
+                msg.contentMetadata = {'mid': 'u9f09cfcb17d037e2936b751bd9d40ead'}
                 acil.sendMessage(msg)
                 acil.sendText(msg.to,"❂••••••••✰•✰••••••••❂")
             elif "Tagme: " in msg.text:
@@ -2665,13 +2665,13 @@ def bot(op):
                            ki10.kickoutFromGroup(msg.to,[target])
                        except:
                            ki10.sendText(msg.to,"Error")
-            elif ("Sc " in msg.text):
+            elif ("#Sc " in msg.text):
                    key = eval(msg.contentMetadata["MENTION"])
                    key1 = key["MENTIONEES"][0]["M"]
                    key = acil.getContact(key1)
                    acil.sendText(msg.to,"" +  key1)
 
-            elif "Bro " in msg.text:
+            elif "#Bro " in msg.text:
                        nk0 = msg.text.replace("Bro ","")
                        nk1 = nk0.lstrip()
                        nk2 = nk1.replace("","")
@@ -3645,7 +3645,7 @@ def bot(op):
                                 print (msg.to,[g.mid])
                             except:
                                 pass
-            elif msg.text in ["Tag","Tagall","Mencret"]:
+            elif msg.text in ["Tag","Tagall","Crot"]:
                 group = acil.getGroup(msg.to)
                 k = len(group.members)//500
                 for j in xrange(k+1):
@@ -3898,7 +3898,7 @@ def bot(op):
                 if msg.toType == 2:
                     ginfo = acil.getGroup(msg.to)
                     try:
-#                        acil.sendText(msg.to,"􀜁􀇔􏿿Bye Bye😘 "  +  str(ginfo.name)  + "")
+#                        acil.sendText(msg.to,"kami disuruh bang sepri pulang, dadah 🤗"  +  str(ginfo.name)  + "")
                         ki.leaveGroup(msg.to)
                         ki2.leaveGroup(msg.to)
                         ki3.leaveGroup(msg.to)
@@ -4133,16 +4133,16 @@ def bot(op):
 				ki10.sendText(msg.to,(bctxt))
 #                acil.sendText(msg.to, "Bom chat selesai mbut.😂")
             elif msg.text.lower() == 'ping':
-                ki.sendText(msg.to,"Ping 􀜁􀇔􏿿")
-                ki2.sendText(msg.to,"Ping 􀜁􀇔􏿿")
-                ki3.sendText(msg.to,"Ping 􀜁􀇔􏿿")
-                ki4.sendText(msg.to,"Ping 􀜁􀇔􏿿")
-                ki5.sendText(msg.to,"Ping 􀜁􀇔􏿿")
-                ki6.sendText(msg.to,"Ping 􀜁􀇔􏿿")
-                ki7.sendText(msg.to,"Ping 􀜁􀇔􏿿")
-                ki8.sendText(msg.to,"Ping 􀜁􀇔􏿿")
-                ki9.sendText(msg.to,"Ping 􀜁􀇔􏿿")
-                ki10.sendText(msg.to,"Ping 􀜁􀇔􏿿")
+                ki.sendText(msg.to,"Ping")
+                ki2.sendText(msg.to,"Ping")
+                ki3.sendText(msg.to,"Ping")
+                ki4.sendText(msg.to,"Ping")
+                ki5.sendText(msg.to,"Ping")
+                ki6.sendText(msg.to,"Ping")
+                ki7.sendText(msg.to,"Ping")
+                ki8.sendText(msg.to,"Ping")
+                ki9.sendText(msg.to,"Ping")
+                ki10.sendText(msg.to,"Ping")
 
 #-----------------------------------------------
 #-----------------------------------------------
@@ -4767,7 +4767,7 @@ def bot(op):
             	contact = acil.getContact(op.param2)
             	c = Message(to=op.param1, from_=None, text=None, contentType=13)
             	c.contentMetadata={'mid':op.param2}
-            	acil.sendText(op.param1,wait["joingc"] + "\n" + acil.getContact(op.param2).displayName + "\nDi grup " + str(ginfo.name) + "\nPembuat grup " + ginfo.creator.displayName + "\n\n══════WE ARE FROM PRANKBOTS═══════")
+            	acil.sendText(op.param1,wait["joingc"] + "\n" + acil.getContact(op.param2).displayName + "\nDi grup " + str(ginfo.name) + "\nPembuat grup " + ginfo.creator.displayName + "\n\n══════SEPRI BOT WAS HERE═══════")
             	acil.sendMessage(c)
             	acil.sendImageWithURL(op.param1,"http://dl.profile.line-cdn.net/" + contact.pictureStatus)
             	print ("MEMBER JOIN TO GROUP")
